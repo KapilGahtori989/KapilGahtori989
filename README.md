@@ -1,9 +1,7 @@
 [![MasterHead](https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif)](https://KapilGahtori989.io)
 <h1 align="center">Hi 👋, I'm Kapil</h1>
 <h3 align="center">Digital Artisan: Crafting Exquisite Apps with Precision</h3>
-<p align="center">
-  <img alt="Coding" width="400" src="https://inspgr.id/app/uploads/2014/10/motion-radio-05.gif" />
-</p>
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 
 - 🌱 I’m currently learning **Android Architecture and Jetpack Compose**
