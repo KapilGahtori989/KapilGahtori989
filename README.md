@@ -1,6 +1,9 @@
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Kapil</h1>
 <h3 align="center">Digital Artisan: Crafting Exquisite Apps with Precision</h3>
-<img align = "center" alt = "Coding" width ="400" src="https://inspgr.id/app/uploads/2014/10/motion-radio-05.gif">
+<p align="center">
+  <img alt="Coding" width="400" src="https://inspgr.id/app/uploads/2014/10/motion-radio-05.gif" />
+</p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kapilgahtori989" alt="kapilgahtori989" /></a> </p>
 
 - 🌱 I’m currently learning **Android Architecture and Jetpack Compose**
