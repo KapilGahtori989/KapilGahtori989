@@ -1,5 +1,9 @@
 <h1 align="center">Hi 👋, I'm Kapil</h1>
 <h3 align="center">Digital Artisan: Crafting Exquisite Apps with Precision</h3>
+<p align="center">
+  <img alt="Coding" width="400" src="https://inspgr.id/app/uploads/2014/10/motion-radio-05.gif" />
+</p>
+
 
 - 🌱 I’m currently learning **Android Architecture and Jetpack Compose**
 
